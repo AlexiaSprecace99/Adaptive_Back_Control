@@ -7,7 +7,7 @@ a1 = 1;
 a2 = 1;
 
 g = 9.81;
-Lamda = 1*eye(2);
+Lamda = 0.1*eye(2);
 R = 1*eye(4);
 Ks = 50*eye(2);
 
