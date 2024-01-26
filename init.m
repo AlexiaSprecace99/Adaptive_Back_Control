@@ -8,8 +8,8 @@ a2 = 1;
 
 g = 9.81;
 Lamda = 0.1*eye(2);
-R_k1_k3 = 1*eye(2);
-R = 100*eye(2);
+R_k1_k2 = 10*eye(2);
+R = 50*eye(4);
 Ks = 50*eye(2);
 
 % initialize jointstate
